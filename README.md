@@ -1,3 +1,9 @@
+# Links de render
+
+https://mutant-detector-67ow.onrender.com
+
+https://mutant-detector-67ow.onrender.com/swagger-ui.html
+
 # 🧬 Mutant Detector API
 
 API REST que detecta si un humano es mutante analizando su secuencia de ADN. Un humano es mutante si tiene **más de una secuencia de cuatro letras iguales** (horizontal, vertical o diagonal).
